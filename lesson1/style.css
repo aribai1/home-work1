@@ -1,0 +1,16 @@
+.header-box {
+    background-color: purple;
+}
+.header-box h1 {
+    color: green;
+}
+.header-box p {
+    color: gold;
+}
+.header-box button {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: none;
+}
